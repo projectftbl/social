@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/social",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Social API utilities",
   "main": "node index",
   "scripts": {
