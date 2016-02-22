@@ -19,6 +19,7 @@
   "dependencies": {
     "@ftbl/configuration": "^1.0.0",
     "bluebird": "^2.9.34",
+    "oauth": "^0.9.14",
     "qs": "^4.0.0",
     "restify": "^3.0.3"
   },
