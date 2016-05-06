@@ -21,7 +21,7 @@
     "bluebird": "^2.9.34",
     "oauth": "^0.9.14",
     "qs": "^4.0.0",
-    "restify": "^3.0.3"
+    "restify": "^4.0.4"
   },
   "devDependencies": {
     "@ftbl/gulp": "^1.0.0",
