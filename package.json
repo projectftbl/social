@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/social",
+  "name": "@recipher/social",
   "version": "1.1.9",
   "description": "Social API utilities",
   "main": "node index",
@@ -14,17 +14,17 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/social.git"
+    "url": "git@github.com:recipher/social.git"
   },
   "dependencies": {
-    "@ftbl/configuration": "^1.0.0",
+    "@recipher/configuration": "^1.0.0",
     "bluebird": "^2.9.34",
     "oauth": "^0.9.14",
     "qs": "^4.0.0",
     "restify": "^4.0.4"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.0",
+    "@recipher/gulp": "^1.0.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",

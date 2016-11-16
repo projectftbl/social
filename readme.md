@@ -1,3 +1,3 @@
-## @ftbl/social
+## @recipher/social
 
 Social network APIs made easy.
